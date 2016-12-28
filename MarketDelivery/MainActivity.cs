@@ -10,7 +10,7 @@ namespace MarketDelivery
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            //Test1
+            //Test12
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
